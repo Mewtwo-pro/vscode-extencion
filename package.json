@@ -1,0 +1,605 @@
+{
+  "name": "zpard",
+  "displayName": "zpard",
+  "description": "linuxdev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "myExtension.showInput",
+                "title": "Mostrar input"
+            },
+{
+    "command": "myExtension.bCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.cCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.dCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.eCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.fCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.gCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.hCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.iCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.jCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.kCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.lCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.mCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.nCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.oCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.pCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.qCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.rCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.sCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.tCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.uCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.vCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.wCommand",
+    "title": "Hello World"
+},
+{
+    "command": "myExtension.tabCommand",
+    "title": "Hello World"
+},
+{
+    "command": "myExtension.spaceCommand",
+    "title": "Hello World"
+},
+{
+    "command": "myExtension.backspaceCommand",
+    "title": "Hello World"
+},
+
+{
+    "command": "myExtension.xCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.yCommand",
+    "title": "Hello World"
+},
+
+
+{
+    "command": "myExtension.zCommand",
+    "title": "Hello World"
+},
+            
+                        {
+                "command": "myExtension.dKey",
+                "title": "Tecla D"
+            },
+                    {
+        "command": "myExtension.toggleCommand",
+        "title": "Hello World"
+          },
+                  {
+        "command": "myExtension.aCommand",
+        "title": "Hello World"
+          },
+            {
+                "command": "myExtension.tabKey",
+                "title": "Tecla D"
+            }
+        ],
+        "keybindings": [
+        
+    {
+        "key": "a",
+        "command": "myExtension.aKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "b",
+        "command": "myExtension.bKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "c",
+        "command": "myExtension.cKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "d",
+        "command": "myExtension.dKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "e",
+        "command": "myExtension.eKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "f",
+        "command": "myExtension.fKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "g",
+        "command": "myExtension.gKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "h",
+        "command": "myExtension.hKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "i",
+        "command": "myExtension.iKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "j",
+        "command": "myExtension.jKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "k",
+        "command": "myExtension.kKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "l",
+        "command": "myExtension.lKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "m",
+        "command": "myExtension.mKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "n",
+        "command": "myExtension.nKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "o",
+        "command": "myExtension.oKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "p",
+        "command": "myExtension.pKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "q",
+        "command": "myExtension.qKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "r",
+        "command": "myExtension.rKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "s",
+        "command": "myExtension.sKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "t",
+        "command": "myExtension.tKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "u",
+        "command": "myExtension.uKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "v",
+        "command": "myExtension.vKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "w",
+        "command": "myExtension.wKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "x",
+        "command": "myExtension.xKey",
+        "when": "miInputFocus"
+    },
+
+
+    {
+        "key": "y",
+        "command": "myExtension.yKey",
+        "when": "miInputFocus"
+    },
+    {
+        "key": "z",
+        "command": "myExtension.zKey",
+        "when": "miInputFocus"
+    },
+    {
+        "key": "enter",
+        "command": "myExtension.enterKey",
+        "when": "miInputFocus"
+    },
+
+    {
+        "key": "tab",
+        "command": "myExtension.tabKey",
+        "when": "miInputFocus"
+    }
+    ,{
+        "command": "myExtension.aCommand",
+        "key": "a",
+        "when": "editorTextFocus"
+      },
+        {
+        "command": "myExtension.bCommand",
+        "key": "b",
+        "when": "editorTextFocus"
+    },
+    {
+        "command": "myExtension.cCommand",
+        "key": "c",
+        "when": "editorTextFocus"
+    },
+    {
+        "command": "myExtension.backspaceCommand",
+        "key": "backspace",
+        "when": "editorTextFocus"
+    },
+    {
+        "command": "myExtension.spaceCommand",
+        "key": "space",
+        "when": "editorTextFocus"
+    },
+
+    {
+        "command": "myExtension.tabCommand",
+        "key": "tab",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.dCommand",
+        "key": "d",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.eCommand",
+        "key": "e",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.fCommand",
+        "key": "f",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.gCommand",
+        "key": "g",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.hCommand",
+        "key": "h",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.iCommand",
+        "key": "i",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.jCommand",
+        "key": "j",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.kCommand",
+        "key": "k",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.lCommand",
+        "key": "l",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.mCommand",
+        "key": "m",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.nCommand",
+        "key": "n",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.oCommand",
+        "key": "o",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.pCommand",
+        "key": "p",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.qCommand",
+        "key": "q",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.rCommand",
+        "key": "r",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.sCommand",
+        "key": "s",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.tCommand",
+        "key": "t",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.uCommand",
+        "key": "u",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.vCommand",
+        "key": "v",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.wCommand",
+        "key": "w",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.xCommand",
+        "key": "x",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.yCommand",
+        "key": "y",
+        "when": "editorTextFocus"
+    },
+
+
+    {
+        "command": "myExtension.zCommand",
+        "key": "z",
+        "when": "editorTextFocus"
+    },
+    {
+      "command": "myExtension.toggleCommand",
+      "key": ";",
+      "when": "editorTextFocus"
+    }
+        ]
+    },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.120.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "22.x",
+    "typescript-eslint": "^8.54.0",
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3",
+    "@vscode/test-cli": "^0.0.12",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
