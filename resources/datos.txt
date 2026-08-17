@@ -1,0 +1,2 @@
+/home/manuel/Documents/cppApps/animation/verb/selectcpp.cpp
+/home/manuel/Documents/cppApps/animation/verb/main.cpp
